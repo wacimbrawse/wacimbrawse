@@ -2,7 +2,7 @@
 
 Bienvenue sur mon GitHub ! Je suis **Data Scientist & Data Engineer**, passionné par l’intelligence artificielle, les pipelines de données robustes, et l’exploitation de la donnée pour répondre à des problématiques métier concrètes.
 
-🎯 **Actuellement en mission chez Orange France** en tant que Data Scientist, où je travaille sur des projets de NLP avec des modèles tels que BERT, CamemBERT et DeBERTa.
+🎯 **Actuellement en recherche d'une nouvelle mission** .
 
 🔗 **Mon Portfolio :** [wacimbrawse.github.io/Portfolio](https://wacimbrawse.github.io/Portfolio/)
 
@@ -80,5 +80,3 @@ Bienvenue sur mon GitHub ! Je suis **Data Scientist & Data Engineer**, passionn�
 
 ---
 
-🧭 Pour découvrir mes projets en détail :  
-👉 [Mon Portfolio Web](https://wacimbrawse.github.io/Portfolio/)
