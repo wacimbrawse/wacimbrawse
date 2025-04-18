@@ -27,12 +27,12 @@ Bienvenue sur mon GitHub ! Je suis **Data Scientist & Data Engineer**, passionn�
 
 ## 💼 Expériences
 
-### 🟧 Orange France — *Data Scientist* (Mars 2024 – Août 2024)
+### 🟧 Orange France — *Data Scientist* 
 - Formalisation des besoins métier et pipeline NLP complet sur GCP.
 - Analyse exploratoire, labellisation, entraînement et évaluation de modèles BERT-like.
 - Déploiement sur GCP avec monitoring en production.
 
-### 🛒 Carrefour France — *Data Engineer / Analyst* (Mars 2023 – Août 2023)
+### 🛒 Carrefour France — *Data Engineer / Analyst* 
 - Développement de pipelines ETL (PySpark, SQL) pour exploiter des données SAP.
 - Création de dashboards interactifs pour les KPIs métier.
 - Optimisation des transformations et garantie de qualité des données.
