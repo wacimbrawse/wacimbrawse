@@ -2,9 +2,7 @@
 
 Bienvenue sur mon GitHub ! Je suis **Data Scientist & Data Engineer**, passionné par l’intelligence artificielle, les pipelines de données robustes, et l’exploitation de la donnée pour répondre à des problématiques métier concrètes.
 
-🎯 **Actuellement en recherche d'une nouvelle mission** .
 
-🔗 **Mon Portfolio :** [wacimbrawse.github.io/Portfolio](https://wacimbrawse.github.io/Portfolio/)
 
 ---
 
@@ -27,10 +25,6 @@ Bienvenue sur mon GitHub ! Je suis **Data Scientist & Data Engineer**, passionn�
 
 ## 💼 Expériences
 
-### 🟧 Orange France — *Data Scientist* 
-- Formalisation des besoins métier et pipeline NLP complet sur GCP.
-- Analyse exploratoire, labellisation, entraînement et évaluation de modèles BERT-like.
-- Déploiement sur GCP avec monitoring en production.
 
 ### 🛒 Carrefour France — *Data Engineer / Analyst* 
 - Développement de pipelines ETL (PySpark, SQL) pour exploiter des données SAP.
@@ -52,8 +46,7 @@ Bienvenue sur mon GitHub ! Je suis **Data Scientist & Data Engineer**, passionn�
 ## 🎓 Formations
 
 - 🎓 Master 2 Data Science – *INSA Rouen / Université de Rouen*
-- 🎓 Master 1 Business Intelligence – *USTHB Alger*
-- 🎓 Licence Informatique parcours Data Science – *Université de Rouen*
+
 
 ---
 
